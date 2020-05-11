@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "E-commerce CLI Project"
-date:       2020-05-11 03:52:31 +0000
+date:       2020-05-10 23:52:32 -0400
 permalink:  e-commerce_cli_project
 ---
 
