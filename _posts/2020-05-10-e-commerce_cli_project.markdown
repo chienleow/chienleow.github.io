@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Tips for CLI Project"
+title:      "Tips for CLI Project w/Memes"
 date:       2020-05-10 23:52:32 -0400
 permalink:  e-commerce_cli_project
 ---
