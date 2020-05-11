@@ -52,4 +52,4 @@ Tech is such a unique space where you are encouraged to make errors first, then 
 * Make this app your own, have some fun with it, I feel empowered when I got to customize my very own app.
 * I used the [colorize](http://rubygems.org/gems/colorize/versions/0.8.1) gem, not only it helps readability, I had lots of fun adding colors to the lines I displayed to my user.
 
-Last but not least, I couldn't be more thankful for the fellow Flatiron students, I wouldn't survive till first project without the kindness and patience of your guidance and advice. :)
+Last but not least, I couldn't be more thankful for the instructors and the fellow Flatiron students, I wouldn't survive till first project without the kindness and patience of your guidance and advice. :)
