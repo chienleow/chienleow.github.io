@@ -1,14 +1,12 @@
 ---
 layout: post
-title:      "E-commerce CLI Project"
+title:      "Tips for CLI Project"
 date:       2020-05-10 23:52:32 -0400
 permalink:  e-commerce_cli_project
 ---
 
 
-When I was brainstorming ideas for my first ever coding project, I thought of creating something that I am passionate about, which is an e-commerce app. With my previous experience in the e-commerce industry, I am aware of the reality that e-commerce is growing rapidly in the past few years and will continue developing. I am keen to provide an app with easy navigation and reliable information that will benefit the e-commerce sellers especially small business owners.
-
-I found myself in a clueless position when first planning my CLI project. I had decided to learn and use an API for my project. API was completely new to me as the labs I had just finished were all about scraping and the videos I watched on Learn Instruct were mostly about scraping as well. These are a few tips that got me through the process (ps. memes included for a good laugh).
+Are you stuck while planning your CLI Project? Are you feeling clueless like I was? These are a few tips that got me through the process (ps. memes included for a good laugh).
 
 **1. Start with Planning**
 
@@ -54,5 +52,7 @@ I found myself in a clueless position when first planning my CLI project. I had 
 ![](https://media.giphy.com/media/WAazKNEk4s0Ug/giphy.gif)
 * Make this app your own, have some fun with it, I feel empowered when I got to customize my very own app
 * I used the [colorize](http://rubygems.org/gems/colorize/versions/0.8.1) gem, not only it helps readability, I had lots of fun adding colors to the lines I display to my user, think about user experience
+
+A little backstory about my CLI app. When I was brainstorming ideas for my first ever coding project, I thought why not create something that I am passionate about? So I can talk about it during my interviews. With my previous experience in the e-commerce industry, I am aware of the reality that e-commerce is growing rapidly in the past few years and will continue developing. I am keen to provide an e-commerce app for eBay with easy navigation and reliable information that will benefit the e-commerce sellers especially small business owners.
 
 Last but not least, I couldn't be more thankful for the instructors and the fellow Flatiron students, I wouldn't survive till my first project without the kindness and patience of your guidance and advice. :)
