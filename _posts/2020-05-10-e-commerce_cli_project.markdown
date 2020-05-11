@@ -34,7 +34,7 @@ Are you stuck while planning your CLI Project? Are you feeling clueless like I w
 **4. Think Separation of Concerns**
 
 ![](https://www.omnisend.com/blog/wp-content/uploads/2016/09/funny-gifs-3.gif)
-* Create the skeleton of the project first (Classes), big picture, then fill in the actual data later on(while you wait for your API key etc)
+* Create the skeleton of the project first (Classes), big picture, then fill in the actual data later on (while you wait for your API key etc)
 * **Class CLI** - the controller that communicates with my user
 * **Class Object** (in my case, its "Category" and "Listing") - where objects are created and stored for user display/usage
 * **Class API** - bring in the external API here, instantiate my objects
