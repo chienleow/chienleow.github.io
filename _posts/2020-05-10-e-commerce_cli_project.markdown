@@ -8,7 +8,7 @@ permalink:  e-commerce_cli_project
 
 When I was brainstorming ideas for my first ever coding project, I thought of creating something that I am passionate about, which is an e-commerce app. With my previous experience in the e-commerce industry, I am aware of the reality that e-commerce is growing rapidly in the past few years and will continue developing. I am keen to provide an app with easy navigation and reliable information that will benefit the e-commerce sellers especially small business owners.
 
-I found myself in a clueless position when first planning my CLI project. I had decided to learn and use an API for my project. API was completely new to me as the labs I had just finished were all about scraping and the videos I watched on Learn Instruct were mostly about scraping as well. These are a few tips that got me through the process.
+I found myself in a clueless position when first planning my CLI project. I had decided to learn and use an API for my project. API was completely new to me as the labs I had just finished were all about scraping and the videos I watched on Learn Instruct were mostly about scraping as well. These are a few tips that got me through the process (ps. memes included for a good laugh).
 
 **1. Start with Planning**
 
