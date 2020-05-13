@@ -12,8 +12,8 @@ Are you stuck while planning your CLI Project? Are you feeling clueless like I w
 
 ![gif](https://lovelyweddingskc.com/wp-content/uploads/2019/10/Funny-Wedding-Planning-GIF.gif)
 * Writing a user story and mapping out a flow diagram
-* Sketch out your program in English in a text file
-* Consulting your notes along the way
+* Sketch out your program in English in a text file, then "translate" to Ruby language later on
+* Consulting your notes along the way, it helps keeping you focus
 
 
 
