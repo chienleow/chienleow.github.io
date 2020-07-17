@@ -18,7 +18,7 @@ I created 2 models, Users (businesses/non-profit organizations) and Projects. Us
 **Stretch Goals (Something I might come back and build in the future):**
 - Display a list of volunteer projects based on date and time
 - Another model: Volunteers
-- Volunteers can sign up with their resume and strengths
+- Volunteers can sign up with their resume and credentials
 - The volunteer project page can be filtered by location, date, time etc
 - Business/Non-profit organization can create slots for volunteers to RSVP
 - Send reminder to volunteers
