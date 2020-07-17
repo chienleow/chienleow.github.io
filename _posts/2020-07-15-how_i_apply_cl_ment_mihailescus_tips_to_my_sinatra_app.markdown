@@ -6,7 +6,7 @@ permalink:  how_i_apply_cl_ment_mihailescus_tips_to_my_sinatra_app
 ---
 
 
-Prior to my Sinatra project, I had watched a YouTube video from Clément Mihailescu, he shared 3 lessons he learned in 4 years of coding. I was able to apply those to my Sinatra project as well.
+Prior to my [Sinatra project](http://chienleow.github.io/stronger_together_covid_volunteer_app), I had watched a YouTube video from Clément Mihailescu, he shared 3 lessons he learned in 4 years of coding. I was able to apply those to my Sinatra project as well.
 
 **1. Don't get too attached to your code**
 
