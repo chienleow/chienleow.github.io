@@ -1,11 +1,11 @@
 # Site settings
-author: C. Leow
-title: 
+author: ChiEn Leow
+title: ChiEn Leow
 header-img: img/home-bg.png
 email: chienleow1@gmail.com
-copyright_name: C. Leow
+copyright_name: ChiEn Leow
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Career Changing Journey with Flatiron School
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  chienleow
