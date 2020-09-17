@@ -14,7 +14,7 @@ How do I prevent my Rails project from going off the rails? Sit tight, we are go
 
 AS A USER, I WANT TO set daily goals (physical, mental, intellectual, and top 5 daily), SO I CAN achieve them along with my team members.
 
-Inspiration: How do you stay motivated remotely with your teammates? We understand the importance of accountability. With "gamified-wellness-tracker", you can set your daily goals along with other team members, earning team points for friendly competition while achieving goals together!
+**Inspiration:** How do you stay motivated remotely with your teammates? We understand the importance of accountability. With "gamified-wellness-tracker", you can set your daily goals along with other team members, earning team points for friendly competition while achieving goals together!
 
 > Focus on building MVP of the project, put stretch goals in the back burner, come back to them later.
 
@@ -28,8 +28,7 @@ Inspiration: How do you stay motivated remotely with your teammates? We understa
 * Once goals are completed, points will be added to individual points, individual points will be included in the team points
 * An admin to organize teams, and make changes
 * Motivational quotes randomizer
-* User customizable profiles (pump up song, motivational quotes)
-
+* User customizable profiles (pump up song, motivational quotes)<br>
 
 #### **STEP 2: Choosing Your Models; Modeling Your Data**
 
