@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "Keeping Rails Project ON THE RAILS"
-date:       2020-09-17 03:26:10 +0000
+date:       2020-09-16 23:26:11 -0400
 permalink:  keeping_rails_project_on_the_rails
 ---
 
-How do I prevent my Rails project from going off the rails? Sit tight, we are going on a ride! I couldn't emphasize enough on the importance of planning, DO NOT SKIP the [Rails Project Planning Resources](http://https://learn.co/tracks/full-stack-web-development-v8/module-13-rails/section-12-authentication/rails-project-planning-resources)!
+How do I prevent my Rails project from going off the rails? Sit tight, we are going on a ride! I couldn't emphasize enough on the importance of planning, **DO NOT SKIP the [Rails Project Planning Resources](http://https://learn.co/tracks/full-stack-web-development-v8/module-13-rails/section-12-authentication/rails-project-planning-resources)!**
 
 #### **STEP 1: Making a User Story**
 * “As a [persona], I [want to], [so that].”
