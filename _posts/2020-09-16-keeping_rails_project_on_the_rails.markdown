@@ -51,5 +51,6 @@ Inspiration: How do you stay motivated remotely with your teammates? We understa
 
 * An easy to use wireframing site: [Figma](http://www.figma.com/)
 
-> A quote that I kept in mind while working through Rails project: "1. make it work, 2. make it fast, 3. then make it pretty!"
+> A quote that I kept in mind while working through Rails project: 
+> "1. make it work, 2. make it fast, 3. then make it pretty!"
 
