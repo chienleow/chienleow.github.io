@@ -54,5 +54,5 @@ Inspiration: How do you stay motivated remotely with your teammates? We understa
 Visualizing your project doesn't have to be perfect, it serves as a solid foundation for your planning process. Here is an example of [my wireframing](http://www.figma.com/file/Y8ipeGQ2tlpVH18uTiDHT2/Rails-Wireframe?node-id=77%3A432) on Figma, a backbone of how my app would look like without much styling.
 
 > A quote that I kept in mind while working through Rails project:<br>
-> "1. make it work, 2. make it fast, 3. then make it pretty!"
+> "1. Make it work, 2. Make it fast, 3. Then, make it pretty!"
 
