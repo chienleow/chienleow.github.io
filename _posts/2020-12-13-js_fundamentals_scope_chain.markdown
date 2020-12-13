@@ -11,6 +11,7 @@ permalink:  js_fundamentals_scope_chain
 So, we can look inside out, not outside in. Two functions declared in the same scope do not have access to anything declared in the other's scope.
 
 **The JavaScript Engine**
+
 When our JavaScript code is run in the browser, the JavaScript engine actually makes two separate passes over our code:
 
 **Compilation Phase**
