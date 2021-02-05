@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Programming is challenge, but possible"
+title:      "Programming is challenging, BUT POSSIBLE"
 date:       2021-01-25 12:56:04 -0500
 permalink:  my_coding_journey
 ---
