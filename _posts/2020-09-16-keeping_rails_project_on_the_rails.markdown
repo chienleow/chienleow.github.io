@@ -39,7 +39,7 @@ AS A USER, I WANT TO set daily goals (physical, mental, intellectual, and top 5 
 * [Video: Jennifer Hansen's MyBlog Series (Planning Object Relationships)](https://www.youtube.com/watch?v=825w5S69J38)
 
 #### **STEP 3: Diagraming Your Schema**
-* Use [Draw.io](hhttps://app.diagrams.net/) to display your data above *visually* by diagramming your schema.
+* Use [Draw.io](https://app.diagrams.net/) to display your data above *visually* by diagramming your schema.
 
 * [Video: Creating Entity Relationship Diagrams using Draw.io](https://www.youtube.com/watch?v=lAtCySGDD48)
 
@@ -50,7 +50,7 @@ AS A USER, I WANT TO set daily goals (physical, mental, intellectual, and top 5 
 
 * An easy to use wireframing site: [Figma](https://www.figma.com/)
 
-Visualizing your project doesn't have to be perfect, it serves as a solid foundation for your planning process. Here is an example of [my wireframing](http://www.figma.com/file/Y8ipeGQ2tlpVH18uTiDHT2/Rails-Wireframe?node-id=77%3A432) on Figma, a backbone of how my app would look like without much styling.
+Visualizing your project doesn't have to be perfect, it serves as a solid foundation for your planning process. Here is an example of [my wireframing](https://www.figma.com/file/Y8ipeGQ2tlpVH18uTiDHT2/Rails-Wireframe?node-id=77%3A432) on Figma, a backbone of how my app would look like without much styling.
 
 > A quote that I kept in mind while working through Rails project:<br>
 > "1. Make it work, 2. Make it fast, 3. Then, make it pretty!"
